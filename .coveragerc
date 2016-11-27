@@ -1,0 +1,3 @@
+[run]
+source = yxbj
+omit = yxbj/test*
