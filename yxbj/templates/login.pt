@@ -10,8 +10,8 @@
 <!--[if lt IE 9]>
     <script src="/redesign/global/js/html5shiv.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="/static/css/login/style2.css?v=2">
-  <link rel="stylesheet" href="/static/css/login/style.css?v=2"></head><body class="wrapper">
+  <link rel="stylesheet" href="https://www.yinxiang.com/media/css/login/style2.css?v=2">
+  <link rel="stylesheet" href="https://www.yinxiang.com/media/css/login/style.css?v=2"></head><body class="wrapper">
   <div class="bar-header">
     <div class="logo-bar"></div>
   </div>  
